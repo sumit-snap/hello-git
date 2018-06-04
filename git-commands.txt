@@ -1,0 +1,9 @@
+GIT- Git is Version Control System which is user to manage the developer code. The code is save with commit where the commit play a role of checkpoint. So, till checkpoint our code is right. We can restore any checkpoint whenever we want
+GitHub- GitHub is basically a cloud platform where we save our codes. We can access our codes from anywhere and on anytime in the world. We can also work in team on git hub.
+how to upload project on github:
+1. open the cmd in project directory
+2. git init
+3. git add (project file name.extension)
+4. git commit -m "Checkpoint Message"
+5. git remote add origin https://github.com/(account user name)/(repository name).git
+6. git push origin master
